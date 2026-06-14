@@ -6,11 +6,9 @@
   "author": "An Tran",
   "type": "commonjs",
   "main": "server.js",
- 
-"script": {
-"start": "nodemon server.js"
-},
-
+  "script": {
+    "start": "nodemon server.js"
+  },
   "dependencies": {
     "express": "^5.2.1"
   },
@@ -21,4 +19,3 @@
     "prettier": "^3.8.4"
   }
 }
-
